@@ -1,4 +1,6 @@
-<gif src="https://www.canva.com/design/DAEyedwq7vg/ZD0eMW4_uhMsoSXsOWnEcg/watch?utm_content=DAEyedwq7vg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="40" height="40" />
+
+<img src="Nliasso\resources\gif\bienivenida.gif" width="40" height="40" />
+
 
 ### Hi there 👋
 
