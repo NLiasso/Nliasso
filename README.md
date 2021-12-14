@@ -1,4 +1,9 @@
+<img src="Nliasso\resources\gif\bienivenida.gif" width="40" height="40" />
+
 ### Hi there 👋
+
+
+
 
 <!--
 **NLiasso/Nliasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
