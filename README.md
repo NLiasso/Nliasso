@@ -13,7 +13,7 @@ tanto al usuario como al product owner.
 
 ## ✨Skills✨
 <p>
-<img width="10%" src="./resources/logos/Git.png">
+<img width="10%" src="./resources/logos/git.png">
 <img width="10%" src="./resources/logos/NodeJs.png">
 <img width="10%" src="./resources/logos/postgreSQL.png">
 <img width="10%" src="./resources/logos/jwt.png">
