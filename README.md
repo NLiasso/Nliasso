@@ -2,7 +2,7 @@
 <img src="https://github.com/NLiasso/Nliasso/blob/main/resources/gif/bienivenida.gif" width="1200" height="420" />
 
 
-### Hi there 👋
+Full Stack Developer
 
 
 
