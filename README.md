@@ -24,6 +24,21 @@ tanto al usuario como al product owner.
 </p>
 
 
+## ✨Proyecto Individual: <a href="https://github.com/NLiasso/Proyecto-Individual---Video-Games"> Video-Games <a>✨
+
+
+
+<p>
+<img width="30%" src="./resources/images/Screenshot_119.png">
+<img width="30%" src="./resources/images/Screenshot_120.png">
+<img width="30%" src="./resources/images/Screenshot_121.png">
+<img width="30%" src="./resources/images/Screenshot_122.png">
+<img width="30%" src="./resources/images/Screenshot_123.png">
+<img width="30%" src="./resources/images/Screenshot_124.png">
+</p>
+
+
+
 <p>
 <h3>Como contactarme:</h3> 
 </p>
