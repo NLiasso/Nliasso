@@ -1,5 +1,5 @@
 
-<img src="https://github.com/NLiasso/Nliasso/blob/main/resources/gif/bienivenida.gif" width="40" height="40" />
+<img src="https://github.com/NLiasso/Nliasso/blob/main/resources/gif/bienivenida.gif" width="1200" height="450" />
 
 
 ### Hi there 👋
